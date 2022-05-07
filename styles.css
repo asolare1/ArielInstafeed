@@ -1,0 +1,13 @@
+*{
+    border: 2px solid red;
+}
+.btn-group{
+    display: flex;
+    width: 10%;
+}
+.container{
+    text-align: center;
+}
+header{
+    background-color: rgba(229, 226, 226, 0.945);
+}
