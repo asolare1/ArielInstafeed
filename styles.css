@@ -11,3 +11,6 @@
 header{
     background-color: rgba(229, 226, 226, 0.945);
 }
+.nav-pills{
+    padding-left: 700px !important;
+}
